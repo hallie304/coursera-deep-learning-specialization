@@ -4,6 +4,8 @@ Programming assignments and quizzes from all courses in the Coursera [Deep Learn
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
+The Lecture Notes were created by [amanchadha](https://github.com/amanchadha/coursera-deep-learning-specialization), updated by [hallie304](https://github.com/hallie304)
+
 ## Notes
 
 ### For detailed interview-ready notes on all courses in the Coursera Deep Learning specialization, refer [www.aman.ai](https://aman.ai/).
